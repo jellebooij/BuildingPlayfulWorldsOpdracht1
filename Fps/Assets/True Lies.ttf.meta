@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 10a129279e72963418963b72779f68a4
+timeCreated: 1522435164
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: True Lies
+  fontNames:
+  - True Lies
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
